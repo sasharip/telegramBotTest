@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="org.apache.portals.jetspeed-2:jetspeed-fileutils-maven-plugin:2.3.1" type="repository">
+    <properties maven-id="org.apache.portals.jetspeed-2:jetspeed-fileutils-maven-plugin:2.3.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jetspeed-fileutils-maven-plugin-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetspeed-maven-utils-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-plugin-api-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetspeed-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-project-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-settings-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-model-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/classworlds-1.1-alpha-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-profile-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-artifact-manager-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-repository-metadata-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-artifact-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wagon-provider-api-1.0-beta-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-plugin-registry-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/portlet-api_2.1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp-api-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ccpp-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pluto-container-api-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/portals-bridges-common-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jetspeed-fileutils-maven-plugin-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jetspeed-fileutils-maven-plugin-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
